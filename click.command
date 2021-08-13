@@ -9,6 +9,8 @@ if [ $path = $current ];then
  if [ -d /Applications/Cakebrew.app/Contents/Resources/ ]
  then
   cp -r ./ja.lproj /Applications/Cakebrew.app/Contents/Resources/.
+ else
+  echo "\033[31m /ApplicationフォルダーにCakebrew.appがありません。\033[37m"
  fi
 
 else
