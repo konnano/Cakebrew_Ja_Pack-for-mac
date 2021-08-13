@@ -1,8 +1,8 @@
 #!/bin/sh
 cd `dirname $0`
 
-path=`pwd|rev|cut -c 1-7|rev`
-current='Ja_Pack'
+path=`pwd|rev|cut -c 1-20|rev`
+current='Ja_Pack-for-mac-main'
 
 if [ $path = $current ];then
 
