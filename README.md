@@ -1,47 +1,7 @@
- : オプション
+Cakebrew日本語化パック
 
-'-l'  オプションでFormulaリストが表示されます、//で正規表現が使えます
+Cakebrew.appインストール後そのまま起動してキャッシュ作成させて下さい
 
-'-lb' オプションでボトルインストールFormulaが表示されます、//で正規表現が使えます
+いきなりclick.commandを実行するとCakebrew.app壊れるようです
 
-'-lx' オプションでインストールできないFormulaが表示されます、//で正規表現が使えます
-
-'-in' オプションでインストールに必要なFormulaが表示されます
-
-'-i'  オプションでインストール済みFormulaリストが表示されます
-
-'-s'  オプションでFormulaの検索ができます、//で正規表現が使えます
-
-'-co' オプションでFormulaのライブラリーが表示されます
-
-'-'   オプションで brew list コマンド
-
-Only 　Mac : Cask
-
-'-c'  オプションでCasksリストが表示されます、//で正規表現が使えます
-
-'-ci' オプションでCasksインストール済みリストが表示されます
-
-'-cx' オプションでインストールできないCaskが表示されます、//で正規表現が使えます
-
-'-cs' オプションで同名のFormulaとCaskが表示されます、//で正規表現が使えます
-
- : 表示マーク
-
-bマークはボトルインストールFormula
-
-kマークはkeg_onlyのFormula
-
-iマークはインストール済みFormula
-
-(i)マークはバージョンアップのあるFormula
-
-xマークはインストールできないFormula
-
-tマークはtapでラップされたFormula
-
-Onle Mac : Cask
-
-s マークは同名のFormulaとCask : インストールには --caskオプション
-
-f マークはFormulaを必要とするCask
+一旦Cakebrew.app起動終了後、click.commandを実行で日本語化してください
