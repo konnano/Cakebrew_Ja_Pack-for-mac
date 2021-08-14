@@ -200,7 +200,7 @@
 "Sidebar_Item_Installed" = "インストール済み";
 
 /* No comment provided by engineer. */
-"Sidebar_Item_Leaves" = "独立したフォーミュラ";
+"Sidebar_Item_Leaves" = "依存されないフォーミュラ";
 
 /* No comment provided by engineer. */
 "Sidebar_Item_Outdated" = "更新待ちフォーミュラ";
