@@ -6,7 +6,7 @@ current='Ja_Pack-for-mac-main'
 
 if [ $path = $current ];then
 
- if [ -d /Applications/Cakebrew.app/Contents/Resources/ ]
+ if [ -d /Applications/Cakebrew.app/Contents/Resources ]
  then
   cp -r ./ja.lproj /Applications/Cakebrew.app/Contents/Resources/.
  else
