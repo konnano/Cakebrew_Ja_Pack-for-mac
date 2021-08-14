@@ -305,7 +305,7 @@
 "oBx-PH-cgq.title" = "データー検出";
 
 /* Class = "NSMenu"; title = "Formula"; ObjectID = "sBH-Ta-Jft"; */
-"sBH-Ta-Jft.title" = "フォーミュラ";
+"sBH-Ta-Jft.title" = "更新";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "sTI-da-gJ4"; */
 "sTI-da-gJ4.title" = "閉じる";
@@ -333,4 +333,3 @@
 
 /* Class = "NSMenuItem"; title = "All Formulae"; ObjectID = "zam-2s-isx"; */
 "zam-2s-isx.title" = "全てのフォーミュラ";
-
