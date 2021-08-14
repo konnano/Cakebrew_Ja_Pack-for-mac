@@ -38,10 +38,10 @@
 "Formula_Popover_Title" = "フォーミュラ情報";
 
 /* No comment provided by engineer. */
-"Formula_Status_Installed" = "インストール済み";
+"Formula_Status_Installed" = "インストール済";
 
 /* No comment provided by engineer. */
-"Formula_Status_Not_Installed" = "not インストール";
+"Formula_Status_Not_Installed" = "未インストール";
 
 /* No comment provided by engineer. */
 "Formula_Status_Outdated" = "利用可能なアップデート";
