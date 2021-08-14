@@ -176,7 +176,7 @@
 "Lcb-tm-ATo.title" = "フォーミュラをインストール";
 
 /* Class = "NSMenuItem"; title = "Leaves"; ObjectID = "M9N-PI-gBO"; */
-"M9N-PI-gBO.title" = "独立したフォーミュラ";
+"M9N-PI-gBO.title" = "依存されないフォーミュラ";
 
 /* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "MQL-Vg-ECI"; */
 "MQL-Vg-ECI.title" = "置換を表示";
