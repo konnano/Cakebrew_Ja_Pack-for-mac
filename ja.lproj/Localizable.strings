@@ -77,10 +77,10 @@
 "Homebrew_Task_Finished_At" = "へ";
 
 /* No comment provided by engineer. */
-"Info_View_Formula_No_Conflicts" = "フォーミュラに競合はありません。 ";
+"Info_View_Formula_No_Conflicts" = "競合はありません。 ";
 
 /* No comment provided by engineer. */
-"Info_View_Formula_No_Dependencies" = "フォーミュラにライブラリはありません。";
+"Info_View_Formula_No_Dependencies" = "ライブラリはありません。";
 
 /* No comment provided by engineer. */
 "Info_View_Formula_No_Description" = "説明はありません。";
