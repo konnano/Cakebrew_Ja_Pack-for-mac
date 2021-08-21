@@ -5,3 +5,5 @@ Cakebrew.appインストール後そのまま起動してキャッシュ作成�
 いきなりclick.commandを実行するとCakebrew.app壊れるようです
 
 一旦Cakebrew.app起動終了後、click.commandを実行で日本語化してください
+
+バグ:更新を確認メニューがなぜにバージョン1.2表示なのか原因がわかりません
