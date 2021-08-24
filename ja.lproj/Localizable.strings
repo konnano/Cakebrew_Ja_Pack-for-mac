@@ -74,7 +74,7 @@
 "Homebrew_Task_Finished" = "タスクが完了しました";
 
 /* No comment provided by engineer. */
-"Homebrew_Task_Finished_At" = "へ";
+"Homebrew_Task_Finished_At" = ":";
 
 /* No comment provided by engineer. */
 "Info_View_Formula_No_Conflicts" = "競合はありません。 ";
