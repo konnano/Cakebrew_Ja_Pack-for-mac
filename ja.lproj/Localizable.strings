@@ -173,13 +173,13 @@
 "Sidebar_Info_Doctor" = "診断ツールは、エラーを検出します.";
 
 /* No comment provided by engineer. */
-"Sidebar_Info_Installed" = "システムにすでにインストールされています.";
+"Sidebar_Info_Installed" = "インストールされています.";
 
 /* No comment provided by engineer. */
 "Sidebar_Info_Leaves" = "他のフォーミュラで使用されていないフォーミュラ";
 
 /* No comment provided by engineer. */
-"Sidebar_Info_Outdated" = "すでにインストールされていますが、アップデートが利用可能です.";
+"Sidebar_Info_Outdated" = "インストールされていますが、アップデートが利用可能です.";
 
 /* No comment provided by engineer. */
 "Sidebar_Info_Repos" = "追加したリポジトリ.";
