@@ -143,10 +143,10 @@
 "Message_Untap_Title" = "進行中のリポジトリの削除 ";
 
 /* No comment provided by engineer. */
-"Message_Update_All_Outdated_Body" = "全ての数式を更新してもよろしいですか ?";
+"Message_Update_All_Outdated_Body" = "全てのフォーミュラを更新してもよろしいですか ?";
 
 /* No comment provided by engineer. */
-"Message_Update_All_Outdated_Title" = "全ての数式を更新します ";
+"Message_Update_All_Outdated_Title" = "全てのフォーミュラを更新します ";
 
 /* No comment provided by engineer. */
 "Message_Update_Formulae_Body" = "フォーミュラを更新してもよろしいですか : %@ ?";
@@ -240,4 +240,3 @@
 
 /* No comment provided by engineer. */
 "Toolbar_Update_Selected" = "選択したフォーミュラを更新する";
-
