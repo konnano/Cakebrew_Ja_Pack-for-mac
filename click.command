@@ -3,7 +3,7 @@ cd `dirname $0`
 
 path=`pwd|rev|cut -c 1-20|rev`
 current='Ja_Pack-for-mac'
-echo $path
+
 if [[ $path =~ $current ]];then
 
  if [ -d /Applications/Cakebrew.app/Contents/Resources ]
