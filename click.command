@@ -1,7 +1,7 @@
 #!/bin/bash
-cd `dirname $0`
+cd "$(dirname "$0")" || ${die:?cd error}
 
-path=`pwd|rev|cut -c 1-20|rev`
+path=$(pwd|rev|cut -c 1-20|rev)
 current='Ja_Pack-for-mac'
 
 if [[ $path =~ $current ]];then
